@@ -1,0 +1,53 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+@font-face{
+	font-family: RobotoR;
+	src:url(fonts/Roboto-Regular.ttf);
+}
+html,main,body{
+	font-family: RobotoR;
+	width: 90%;
+	height: 80px;
+
+}
+.first{
+	background-image:url(img/fon.jpg);
+	width: 100%;
+	height: 700px;
+	background-position: center;
+
+}
+.tourism{
+	text-align: center;
+	font-size: 18px;
+	color: white;
+}
+
+.first-line{
+	font-size: 28px;
+	color: white;
+	opacity: .7;
+	margin: 90px;
+	font-family: RobotoR
+	 src: url(fonts/Roboto-Bold.ttf);
+
+}
+.second-line{
+	font-size: 50px;
+	color: white;
+	font-family: RobotoR
+	 src: url(fonts/Roboto-Bold.ttf);
+	}
+	.third-line{
+		color: white;
+		font-size: 15px;
+		opacity: .7;
+		font-family: RobotoR
+		src:url(fonts/Roboto-Regular.ttf);
+
+	}
+
+
